@@ -1,0 +1,12 @@
+C:\Users\Jasmin\documents\visual studio 2010\Projects\Min\Min\obj\x86\Debug\Min.Form1.resources
+C:\Users\Jasmin\documents\visual studio 2010\Projects\Min\Min\obj\x86\Debug\Min.Login.resources
+C:\Users\Jasmin\documents\visual studio 2010\Projects\Min\Min\obj\x86\Debug\Min.Main.resources
+C:\Users\Jasmin\documents\visual studio 2010\Projects\Min\Min\obj\x86\Debug\Min.Resources.resources
+C:\Users\Jasmin\documents\visual studio 2010\Projects\Min\Min\obj\x86\Debug\Min.Register.resources
+C:\Users\Jasmin\documents\visual studio 2010\Projects\Min\Min\obj\x86\Debug\Min.vbproj.GenerateResource.Cache
+C:\Users\Jasmin\documents\visual studio 2010\Projects\Min\Min\bin\Debug\Min.exe
+C:\Users\Jasmin\documents\visual studio 2010\Projects\Min\Min\bin\Debug\Min.pdb
+C:\Users\Jasmin\documents\visual studio 2010\Projects\Min\Min\bin\Debug\Min.xml
+C:\Users\Jasmin\documents\visual studio 2010\Projects\Min\Min\obj\x86\Debug\Min.exe
+C:\Users\Jasmin\documents\visual studio 2010\Projects\Min\Min\obj\x86\Debug\Min.xml
+C:\Users\Jasmin\documents\visual studio 2010\Projects\Min\Min\obj\x86\Debug\Min.pdb
